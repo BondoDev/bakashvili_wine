@@ -337,6 +337,7 @@ body {
 .winemaking__description--1 {
   display: flex;
   column-gap: 3rem;
+  width: 124rem;
 }
 .winemaking__description--1-text {
   font-size: 1.8rem;
@@ -344,13 +345,14 @@ body {
 }
 .winemaking__description--1-image img {
   height: 100%;
+  width: 45rem;
   border-radius: 5px;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  width: 99%;
 }
 .winemaking__description--2 {
   display: flex;
   column-gap: 3rem;
+  width: 124rem;
 }
 .winemaking__description--2-text {
   font-size: 1.8rem;
@@ -358,9 +360,9 @@ body {
 }
 .winemaking__description--2-image img {
   height: 100%;
+  width: 45rem;
   border-radius: 5px;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  width: 99%;
 }
 .winemaking__description--2 button {
   width: 20%;
